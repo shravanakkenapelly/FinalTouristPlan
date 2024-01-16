@@ -1,0 +1,61 @@
+2024-01-11 15:37:19,221 INFO o.a.c.c.C.[.[.[/] [http-nio-8099-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 15:37:19,233 INFO o.s.w.s.DispatcherServlet [http-nio-8099-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-01-11 15:37:19,236 INFO o.s.w.s.DispatcherServlet [http-nio-8099-exec-1] Completed initialization in 3 ms
+2024-01-11 15:37:19,297 INFO c.c.c.UserController [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:37:19,297 INFO c.c.s.UserService [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:38:16,820 INFO c.c.c.UserController [http-nio-8099-exec-2] Fetching all users
+2024-01-11 15:38:16,820 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
+2024-01-11 15:38:53,046 INFO c.c.c.UserController [http-nio-8099-exec-4] Registering user: suyash 
+2024-01-11 15:38:59,419 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:39:00,184 INFO c.c.c.UserController [http-nio-8099-exec-5] Fetching all users
+2024-01-11 15:39:00,184 INFO c.c.s.UserService [http-nio-8099-exec-5] Fetching all users
+2024-01-11 15:39:33,783 INFO c.c.c.UserController [http-nio-8099-exec-6] Fetching user by ID: 1
+2024-01-11 15:39:33,784 INFO c.c.s.UserService [http-nio-8099-exec-6] Finding user by ID: 1
+2024-01-11 15:40:36,653 INFO c.c.c.UserController [http-nio-8099-exec-8] Fetching user for client with ID: 1
+2024-01-11 15:40:36,654 INFO c.c.s.UserService [http-nio-8099-exec-8] Fetching user for client with ID: 1
+2024-01-11 15:40:51,766 INFO c.c.c.UserController [http-nio-8099-exec-9] Fetching user for client with ID: 1
+2024-01-11 15:40:51,766 INFO c.c.s.UserService [http-nio-8099-exec-9] Fetching user for client with ID: 1
+2024-01-11 15:41:05,697 INFO c.c.c.UserController [http-nio-8099-exec-10] Fetching all users
+2024-01-11 15:41:05,697 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users
+2024-01-11 15:41:12,784 INFO c.c.c.UserController [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:41:12,784 INFO c.c.s.UserService [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:41:17,404 INFO c.c.c.UserController [http-nio-8099-exec-2] Fetching user by ID: 1
+2024-01-11 15:41:17,405 INFO c.c.s.UserService [http-nio-8099-exec-2] Finding user by ID: 1
+2024-01-11 15:42:59,259 INFO c.c.c.UserController [http-nio-8099-exec-6] Fetching all users
+2024-01-11 15:42:59,259 INFO c.c.s.UserService [http-nio-8099-exec-6] Fetching all users
+2024-01-11 15:43:59,459 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:45:18,713 INFO c.c.c.UserController [http-nio-8099-exec-8] Fetching user by ID: 1
+2024-01-11 15:45:18,714 INFO c.c.s.UserService [http-nio-8099-exec-8] Finding user by ID: 1
+2024-01-11 15:45:45,203 INFO c.c.c.UserController [http-nio-8099-exec-9] Fetching user by ID: 1
+2024-01-11 15:45:45,203 INFO c.c.s.UserService [http-nio-8099-exec-9] Finding user by ID: 1
+2024-01-11 15:45:47,859 INFO c.c.c.UserController [http-nio-8099-exec-10] Fetching all users
+2024-01-11 15:45:47,859 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users
+2024-01-11 15:46:29,757 INFO c.c.c.UserController [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:46:29,757 INFO c.c.s.UserService [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:46:30,175 INFO c.c.c.UserController [http-nio-8099-exec-2] Fetching user by ID: 1
+2024-01-11 15:46:30,175 INFO c.c.s.UserService [http-nio-8099-exec-2] Finding user by ID: 1
+2024-01-11 15:46:57,247 INFO c.c.c.UserController [http-nio-8099-exec-4] Fetching user by ID: 1
+2024-01-11 15:46:57,248 INFO c.c.s.UserService [http-nio-8099-exec-4] Finding user by ID: 1
+2024-01-11 15:47:45,522 INFO c.c.c.UserController [http-nio-8099-exec-6] Fetching user by ID: 1
+2024-01-11 15:47:45,522 INFO c.c.s.UserService [http-nio-8099-exec-6] Finding user by ID: 1
+2024-01-11 15:47:51,597 INFO c.c.c.UserController [http-nio-8099-exec-7] Fetching all users
+2024-01-11 15:47:51,598 INFO c.c.s.UserService [http-nio-8099-exec-7] Fetching all users
+2024-01-11 15:48:05,845 INFO c.c.c.UserController [http-nio-8099-exec-8] Fetching all users
+2024-01-11 15:48:05,845 INFO c.c.s.UserService [http-nio-8099-exec-8] Fetching all users
+2024-01-11 15:48:06,157 INFO c.c.c.UserController [http-nio-8099-exec-9] Fetching user by ID: 1
+2024-01-11 15:48:06,157 INFO c.c.s.UserService [http-nio-8099-exec-9] Finding user by ID: 1
+2024-01-11 15:48:12,465 INFO c.c.c.UserController [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:48:12,465 INFO c.c.s.UserService [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:48:59,484 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:50:05,526 INFO c.c.c.UserController [http-nio-8099-exec-3] Fetching all users
+2024-01-11 15:50:05,527 INFO c.c.s.UserService [http-nio-8099-exec-3] Fetching all users
+2024-01-11 15:50:14,708 INFO c.c.c.UserController [http-nio-8099-exec-5] Fetching all users
+2024-01-11 15:50:14,709 INFO c.c.s.UserService [http-nio-8099-exec-5] Fetching all users
+2024-01-11 15:50:23,167 INFO c.c.c.UserController [http-nio-8099-exec-7] Fetching all users
+2024-01-11 15:50:23,168 INFO c.c.s.UserService [http-nio-8099-exec-7] Fetching all users
+2024-01-11 15:50:41,262 INFO c.c.c.UserController [http-nio-8099-exec-9] Fetching all users
+2024-01-11 15:50:41,262 INFO c.c.s.UserService [http-nio-8099-exec-9] Fetching all users
+2024-01-11 15:50:47,711 INFO c.c.c.UserController [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:50:47,711 INFO c.c.s.UserService [http-nio-8099-exec-1] Fetching all users
+2024-01-11 15:51:01,269 INFO c.c.c.UserController [http-nio-8099-exec-3] Fetching all users
+2024-01-11 15:51:01,269 INFO c.c.s.UserService [http-nio-8099-exec-3] Fetching all users

@@ -1,0 +1,6 @@
+2024-01-11 17:44:52,788 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:49:52,890 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:54:52,966 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:59:53,031 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 18:04:53,076 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 20:45:26,162 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h37m5s259ms795µs200ns).

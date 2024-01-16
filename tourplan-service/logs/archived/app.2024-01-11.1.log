@@ -1,0 +1,39 @@
+2024-01-11 15:39:52,060 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:40:36,452 INFO o.a.c.c.C.[.[.[/] [http-nio-8090-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-11 15:40:36,453 INFO o.s.w.s.DispatcherServlet [http-nio-8090-exec-1] Initializing Servlet 'dispatcherServlet'
+2024-01-11 15:40:36,457 INFO o.s.w.s.DispatcherServlet [http-nio-8090-exec-1] Completed initialization in 3 ms
+2024-01-11 15:40:36,538 INFO c.t.c.TourPlanController [http-nio-8090-exec-2] Creating tour plan for userId: 1
+2024-01-11 15:40:36,539 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-2] Creating tour plan for userId: 1
+2024-01-11 15:40:36,835 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-2] Tour plan created successfully for userId: 1
+2024-01-11 15:40:36,871 INFO c.t.c.TourPlanController [http-nio-8090-exec-3] Fetching tour details for tourId: 1
+2024-01-11 15:40:36,872 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-3] Fetching tours for userId: 1
+2024-01-11 15:40:51,844 INFO c.t.c.TourPlanController [http-nio-8090-exec-4] Fetching tour details for tourId: 1
+2024-01-11 15:40:51,844 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-4] Fetching tours for userId: 1
+2024-01-11 15:44:52,112 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:48:47,394 INFO c.t.c.TourPlanController [http-nio-8090-exec-6] Fetching tour details for tourId: 1
+2024-01-11 15:48:47,396 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-6] Fetching tours for userId: 1
+2024-01-11 15:48:58,473 INFO c.t.c.TourPlanController [http-nio-8090-exec-7] Fetching tour details for tourId: 1
+2024-01-11 15:48:58,474 INFO c.t.s.TourPlanServiceImpl [http-nio-8090-exec-7] Fetching tours for userId: 1
+2024-01-11 15:49:52,135 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:54:52,165 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 15:59:52,185 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:04:52,196 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:09:52,221 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:14:52,236 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:19:52,249 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:24:52,265 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:29:52,276 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:34:52,287 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:39:52,359 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:44:52,451 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:49:52,516 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:54:52,568 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:59:52,610 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:04:52,642 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:09:52,676 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:14:52,702 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:19:52,717 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:24:52,733 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:29:52,745 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:34:52,759 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:39:52,771 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration

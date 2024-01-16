@@ -1,0 +1,38 @@
+2024-01-11 16:04:35,975 INFO c.c.c.UserController [http-nio-8099-exec-10] Fetching all users
+2024-01-11 16:04:35,986 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users
+2024-01-11 16:04:49,038 INFO c.c.c.UserController [http-nio-8099-exec-2] Fetching all users
+2024-01-11 16:04:49,039 INFO c.c.s.UserService [http-nio-8099-exec-2] Fetching all users
+2024-01-11 16:05:16,922 INFO c.c.c.UserController [http-nio-8099-exec-4] Fetching all users
+2024-01-11 16:05:16,922 INFO c.c.s.UserService [http-nio-8099-exec-4] Fetching all users
+2024-01-11 16:06:02,792 INFO c.c.c.UserController [http-nio-8099-exec-6] Fetching all users
+2024-01-11 16:06:02,792 INFO c.c.s.UserService [http-nio-8099-exec-6] Fetching all users
+2024-01-11 16:08:59,578 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:09:33,566 INFO c.c.c.UserController [http-nio-8099-exec-8] Fetching all users
+2024-01-11 16:09:33,566 INFO c.c.s.UserService [http-nio-8099-exec-8] Fetching all users
+2024-01-11 16:10:15,868 INFO c.c.c.UserController [http-nio-8099-exec-10] Fetching all users
+2024-01-11 16:10:15,869 INFO c.c.s.UserService [http-nio-8099-exec-10] Fetching all users
+2024-01-11 16:13:59,606 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:18:59,627 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:23:59,637 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:28:59,644 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:33:59,649 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:38:59,705 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:43:59,801 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:48:59,874 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:53:59,923 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 16:58:59,963 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:04:00,001 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:09:00,024 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:14:00,052 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:19:00,067 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:24:00,078 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:29:00,094 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:34:00,108 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:39:00,123 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:44:00,131 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:49:00,211 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:54:00,291 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 17:59:00,350 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 18:04:00,396 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
+2024-01-11 20:45:33,812 WARN c.z.h.p.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h37m5s253ms367µs900ns).
+2024-01-11 20:45:35,677 INFO c.n.d.s.r.a.ConfigClusterResolver [AsyncResolver-bootstrap-executor-0] Resolving eureka endpoints via configuration
